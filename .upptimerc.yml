@@ -15,8 +15,8 @@ status-website:
   cname: status.bwnsc.in.th
   logoUrl: https://www.bwnsc.in.th/logo.png
   name: ระบบสถานะเว็บไซต์ BWNSC
-  introTitle: "**ระบบตรวจสอบสถานะเว็บไซต์ BWNSC**"
-  introMessage: หน้านี้ใช้แสดงสถานะการออนไลน์ของเว็บไซต์และบริการสำคัญของโรงเรียนบุญวัฒนา
+  introTitle: "**ระบบตรวจสอบสถานะเว็บไซต์ของโรงเรียนบุญวัฒนา**"
+  introMessage: หน้านี้แสดงสถานะของเว็บไซต์และระบบสำคัญของโรงเรียนแบบเรียลไทม์
   navbar:
     - title: หน้าหลัก
       href: /
