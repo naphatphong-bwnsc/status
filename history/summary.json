@@ -58,17 +58,17 @@
     "url": "https://bwnsc2024.lnw.mn/Check/",
     "icon": "https://icons.duckduckgo.com/ip3/bwnsc2024.lnw.mn.ico",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1432,
-    "timeDay": 1468,
-    "timeWeek": 1432,
-    "timeMonth": 1432,
-    "timeYear": 1432,
+    "time": 1428,
+    "timeDay": 1450,
+    "timeWeek": 1428,
+    "timeMonth": 1428,
+    "timeYear": 1428,
     "dailyMinutesDown": {}
   }
 ]
