@@ -40,7 +40,7 @@
     "url": "https://sos.bwnsc.in.th/",
     "icon": "https://icons.duckduckgo.com/ip3/sos.bwnsc.in.th.ico",
     "slug": "sos-bwnsc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,24 +51,28 @@
     "timeWeek": 650,
     "timeMonth": 598,
     "timeYear": 598,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-27": 0
+    }
   },
   {
     "name": "ระบบเช็กชื่อสภานักเรียนโรงเรียนบุญวัฒนา",
     "url": "https://bwnsc2024.lnw.mn/Check/",
     "icon": "https://icons.duckduckgo.com/ip3/bwnsc2024.lnw.mn.ico",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1480,
-    "timeDay": 1453,
-    "timeWeek": 1513,
-    "timeMonth": 1480,
-    "timeYear": 1480,
-    "dailyMinutesDown": {}
+    "time": 1478,
+    "timeDay": 1431,
+    "timeWeek": 1510,
+    "timeMonth": 1478,
+    "timeYear": 1478,
+    "dailyMinutesDown": {
+      "2025-07-27": 0
+    }
   }
 ]
