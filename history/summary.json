@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 479,
+    "time": 455,
+    "timeDay": 418,
     "timeWeek": 519,
-    "timeMonth": 455,
-    "timeYear": 456,
+    "timeMonth": 463,
+    "timeYear": 455,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 500,
-    "timeWeek": 537,
-    "timeMonth": 571,
-    "timeYear": 561,
+    "time": 558,
+    "timeDay": 458,
+    "timeWeek": 518,
+    "timeMonth": 578,
+    "timeYear": 558,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 528,
-    "timeDay": 593,
-    "timeWeek": 419,
-    "timeMonth": 530,
-    "timeYear": 528,
+    "time": 534,
+    "timeDay": 735,
+    "timeWeek": 469,
+    "timeMonth": 539,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2025-07-27": 15
     }
@@ -60,17 +60,17 @@
     "url": "https://bwnsc2024.lnw.mn/Check/",
     "icon": "https://icons.duckduckgo.com/ip3/bwnsc2024.lnw.mn.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1459,
-    "timeDay": 1496,
-    "timeWeek": 1486,
+    "time": 1460,
+    "timeDay": 1515,
+    "timeWeek": 1489,
     "timeMonth": 1461,
-    "timeYear": 1459,
+    "timeYear": 1460,
     "dailyMinutesDown": {
       "2025-07-27": 15
     }
