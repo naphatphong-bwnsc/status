@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 457,
     "timeDay": 397,
-    "timeWeek": 504,
-    "timeMonth": 472,
+    "timeWeek": 521,
+    "timeMonth": 474,
     "timeYear": 457,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 572,
-    "timeDay": 729,
-    "timeWeek": 608,
-    "timeMonth": 593,
+    "timeDay": 739,
+    "timeWeek": 602,
+    "timeMonth": 601,
     "timeYear": 572,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 539,
-    "timeDay": 605,
-    "timeWeek": 551,
-    "timeMonth": 535,
+    "timeDay": 652,
+    "timeWeek": 521,
+    "timeMonth": 541,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2025-07-27": 15
@@ -60,17 +60,17 @@
     "url": "https://bwnsc2024.lnw.mn/Check/",
     "icon": "https://icons.duckduckgo.com/ip3/bwnsc2024.lnw.mn.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1453,
-    "timeDay": 1397,
+    "time": 1452,
+    "timeDay": 1402,
     "timeWeek": 1421,
     "timeMonth": 1456,
-    "timeYear": 1453,
+    "timeYear": 1452,
     "dailyMinutesDown": {
       "2025-07-27": 15
     }
