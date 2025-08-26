@@ -40,9 +40,9 @@
     "url": "https://sos.bwnsc.in.th/",
     "icon": "https://icons.duckduckgo.com/ip3/sos.bwnsc.in.th.ico",
     "slug": "sos-bwnsc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
@@ -52,6 +52,7 @@
     "timeMonth": 511,
     "timeYear": 531,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-07-27": 15
     }
   },
@@ -62,16 +63,17 @@
     "slug": "",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 1452,
-    "timeDay": 1422,
-    "timeWeek": 1439,
-    "timeMonth": 1453,
+    "timeDay": 1429,
+    "timeWeek": 1442,
+    "timeMonth": 1444,
     "timeYear": 1452,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-07-27": 15
     }
   }
