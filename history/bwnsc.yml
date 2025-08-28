@@ -1,7 +1,7 @@
 url: https://www.bwnsc.in.th/
-status: up
-code: 200
-responseTime: 89
-lastUpdated: 2025-08-28T19:28:13.067Z
+status: down
+code: 429
+responseTime: 651
+lastUpdated: 2025-08-28T19:40:07.115Z
 startTime: 2025-07-17T12:23:49.820Z
 generator: Upptime <https://github.com/upptime/upptime>
