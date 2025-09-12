@@ -4,17 +4,17 @@
     "url": "https://www.bwnsc.in.th/",
     "icon": "https://icons.duckduckgo.com/ip3/www.bwnsc.in.th.ico",
     "slug": "bwnsc",
-    "status": "up",
-    "uptime": "96.19%",
-    "uptimeDay": "80.83%",
-    "uptimeWeek": "69.06%",
-    "uptimeMonth": "92.88%",
-    "uptimeYear": "96.19%",
-    "time": 553,
-    "timeDay": 603,
-    "timeWeek": 574,
-    "timeMonth": 559,
-    "timeYear": 553,
+    "status": "down",
+    "uptime": "96.25%",
+    "uptimeDay": "81.87%",
+    "uptimeWeek": "69.51%",
+    "uptimeMonth": "92.98%",
+    "uptimeYear": "96.25%",
+    "time": 552,
+    "timeDay": 604,
+    "timeWeek": 573,
+    "timeMonth": 558,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2025-09-12": 154,
       "2025-09-11": 173,
@@ -22,7 +22,7 @@
       "2025-09-09": 610,
       "2025-09-08": 598,
       "2025-09-07": 540,
-      "2025-09-06": 538
+      "2025-09-06": 492
     }
   },
   {
@@ -76,15 +76,15 @@
     "url": "https://bwnsc2024.lnw.mn/Check/",
     "icon": "https://icons.duckduckgo.com/ip3/bwnsc2024.lnw.mn.ico",
     "slug": "",
-    "status": "up",
-    "uptime": "96.23%",
-    "uptimeDay": "80.83%",
-    "uptimeWeek": "69.41%",
-    "uptimeMonth": "92.96%",
-    "uptimeYear": "96.23%",
+    "status": "down",
+    "uptime": "96.25%",
+    "uptimeDay": "81.86%",
+    "uptimeWeek": "69.51%",
+    "uptimeMonth": "92.99%",
+    "uptimeYear": "96.25%",
     "time": 1477,
-    "timeDay": 1656,
-    "timeWeek": 1511,
+    "timeDay": 1662,
+    "timeWeek": 1514,
     "timeMonth": 1484,
     "timeYear": 1477,
     "dailyMinutesDown": {
@@ -94,7 +94,7 @@
       "2025-09-09": 610,
       "2025-09-08": 598,
       "2025-09-07": 540,
-      "2025-09-06": 503
+      "2025-09-06": 492
     }
   }
 ]
