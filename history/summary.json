@@ -84,7 +84,7 @@
     "url": "https://bwnsc2024.lnw.mn/Check/",
     "icon": "https://icons.duckduckgo.com/ip3/bwnsc2024.lnw.mn.ico",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -92,7 +92,7 @@
     "uptimeYear": "98.50%",
     "time": 1546,
     "timeDay": 1527,
-    "timeWeek": 1628,
+    "timeWeek": 1629,
     "timeMonth": 1604,
     "timeYear": 1546,
     "dailyMinutesDown": {
