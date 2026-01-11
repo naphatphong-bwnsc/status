@@ -13,7 +13,7 @@
     "time": 561,
     "timeDay": 479,
     "timeWeek": 595,
-    "timeMonth": 524,
+    "timeMonth": 523,
     "timeYear": 561,
     "dailyMinutesDown": {
       "2025-12-09": 46,
@@ -43,7 +43,7 @@
     "time": 568,
     "timeDay": 556,
     "timeWeek": 496,
-    "timeMonth": 567,
+    "timeMonth": 556,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2026-01-09": 0
@@ -63,7 +63,7 @@
     "time": 501,
     "timeDay": 689,
     "timeWeek": 513,
-    "timeMonth": 524,
+    "timeMonth": 533,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2026-01-03": 11,
@@ -93,14 +93,14 @@
     "url": "https://bwnsc2024.lnw.mn/Check/",
     "icon": "https://icons.duckduckgo.com/ip3/bwnsc2024.lnw.mn.ico",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.11%",
     "time": 1625,
-    "timeDay": 1649,
+    "timeDay": 1651,
     "timeWeek": 1706,
     "timeMonth": 1756,
     "timeYear": 1625,
