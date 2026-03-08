@@ -4,18 +4,19 @@
     "url": "https://www.bwnsc.in.th/",
     "icon": "https://icons.duckduckgo.com/ip3/www.bwnsc.in.th.ico",
     "slug": "bwnsc",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.16%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 560,
-    "timeDay": 668,
-    "timeWeek": 486,
-    "timeMonth": 537,
+    "timeDay": 752,
+    "timeWeek": 532,
+    "timeMonth": 549,
     "timeYear": 560,
     "dailyMinutesDown": {
+      "2026-03-08": 0,
       "2026-02-24": 288,
       "2026-02-23": 20,
       "2026-02-17": 58,
@@ -29,7 +30,7 @@
       "2025-09-15": 419,
       "2025-09-14": 445,
       "2025-09-13": 411,
-      "2025-09-12": 76
+      "2025-09-12": 53
     }
   },
   {
@@ -44,9 +45,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 566,
-    "timeDay": 507,
+    "timeDay": 552,
     "timeWeek": 558,
-    "timeMonth": 555,
+    "timeMonth": 557,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2026-01-09": 0
@@ -61,12 +62,12 @@
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.78%",
     "time": 489,
-    "timeDay": 365,
+    "timeDay": 319,
     "timeWeek": 403,
-    "timeMonth": 499,
+    "timeMonth": 503,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2026-02-08": 209,
@@ -98,17 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bwnsc2024.lnw.mn.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "100.00%",
+    "uptime": "99.20%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "99.19%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.20%",
     "time": 1638,
-    "timeDay": 1609,
-    "timeWeek": 1598,
-    "timeMonth": 1693,
+    "timeDay": 1616,
+    "timeWeek": 1600,
+    "timeMonth": 1695,
     "timeYear": 1638,
     "dailyMinutesDown": {
+      "2026-03-08": 0,
       "2026-02-24": 288,
       "2026-02-23": 20,
       "2026-02-17": 58,
@@ -132,7 +134,7 @@
       "2025-09-16": 484,
       "2025-09-15": 419,
       "2025-09-14": 445,
-      "2025-09-13": 133
+      "2025-09-13": 108
     }
   }
 ]
