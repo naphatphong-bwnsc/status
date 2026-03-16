@@ -38,18 +38,19 @@
     "url": "https://email.bwnsc.in.th/",
     "icon": "https://icons.duckduckgo.com/ip3/email.bwnsc.in.th.ico",
     "slug": "email-bwnsc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 779,
-    "timeWeek": 565,
-    "timeMonth": 553,
-    "timeYear": 565,
+    "time": 646,
+    "timeDay": 10474,
+    "timeWeek": 3016,
+    "timeMonth": 1229,
+    "timeYear": 646,
     "dailyMinutesDown": {
+      "2026-03-16": 0,
       "2026-01-09": 0
     }
   },
@@ -99,17 +100,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bwnsc2024.lnw.mn.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "100.00%",
+    "uptime": "99.20%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 1637,
     "timeDay": 1593,
-    "timeWeek": 1601,
-    "timeMonth": 1607,
+    "timeWeek": 1602,
+    "timeMonth": 1606,
     "timeYear": 1637,
     "dailyMinutesDown": {
+      "2026-03-16": 0,
       "2026-03-08": 119,
       "2026-02-24": 288,
       "2026-02-23": 20,
@@ -134,7 +136,7 @@
       "2025-09-16": 484,
       "2025-09-15": 419,
       "2025-09-14": 445,
-      "2025-09-13": 108
+      "2025-09-13": 97
     }
   }
 ]
